@@ -2,7 +2,7 @@ import streamlit as st
 from tavily import TavilyClient
 
 # Initialize TavilyClient with your API key
-tavily = TavilyClient(api_key="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")
+tavily = TavilyClient(api_key="tvly-1aGe3Ldzchi30zjXh87gBC5")
 
 # Streamlit UI
 st.title("Tavily Search")
